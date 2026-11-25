@@ -1,0 +1,11 @@
+{
+  "name": "u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A program that writes one 64-character tombstone epitaph to /output/entry.txt: a dying man thanking the only party who ever agreed to take him.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
